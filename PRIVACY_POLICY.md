@@ -51,5 +51,5 @@ Verilerinizi korumak için makul güvenlik önlemleri uyguluyoruz. Ancak, intern
 #### 4. İletişim ve Destek
 CarGuessr ile ilgili herhangi bir sorunuz, geri bildiriminiz veya desteğe ihtiyacınız varsa, lütfen bizimle iletişime geçin.
 
-**Destek E-postası:** emreos@example.com (Lütfen kendi e-postanızla değiştirin)
+**Destek E-postası:** azesoftwarecorporation@gmail.com
 **GitHub Sorunları:** Hataları GitHub depomuz üzerinden de bildirebilirsiniz.
