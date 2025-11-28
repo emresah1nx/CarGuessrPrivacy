@@ -23,7 +23,7 @@ We implement reasonable security measures to protect your data. However, no meth
 #### 4. Contact & Support
 If you have any questions, feedback, or need support regarding CarGuessr, please contact us.
 
-**Support Email:** emreos@example.com (Please replace with your email)
+**Support Email:** azesoftwarecorporation@gmail.com
 **GitHub Issues:** You can also report bugs on our GitHub repository.
 
 ---
